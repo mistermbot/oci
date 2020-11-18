@@ -5,7 +5,7 @@
     "data": "asio-individuals.ttl",
     "schema": "project.s",
     "in_shape_map": "project_in.m",
-    "out_shape_map": "project_out.m"
+    "out_shape_map": "random_shape_out.m"
   },
   {
      "test_name": "test that a project instance does not conform to a random shape",
